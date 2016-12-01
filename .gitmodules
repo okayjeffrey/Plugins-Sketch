@@ -16,3 +16,6 @@
 [submodule "Sketch-ArtboardTricks"]
 	path = Sketch-ArtboardTricks
 	url = https://github.com/romannurik/Sketch-ArtboardTricks.git
+[submodule "sort-me-sketch"]
+	path = sort-me-sketch
+	url = https://github.com/romashamin/sort-me-sketch.git

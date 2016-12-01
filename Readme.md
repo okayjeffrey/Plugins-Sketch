@@ -25,6 +25,7 @@ If you got the hang of this and hate the plugins I use you should be able to cre
 - [Magic Mirror](https://github.com/MagicSketch/MagicMirror) — Quickly mock your design onto a device, what else do I need to say.
 - [Sketch Runner](http://sketchrunner.com/) — I love Alfred App and hate clicking around! Automate & shortcut things people!!!
 - [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc) — I have been plotting a way to make this since Sketch came out! Glad some smart people have made it happen, now I can modify it!!
+- [Sort Me](https://github.com/romashamin/sort-me-sketch) — Organize your layers alphabetically because its your job to be organized!
 
 
 *Note: These are not all of the plugins being used. Some like Invision's Craft install & manage themselves so I have included a .gitignore for plugins like that.*
