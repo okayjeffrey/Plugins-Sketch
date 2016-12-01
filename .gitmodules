@@ -4,3 +4,15 @@
 [submodule "sketch-designdoc"]
 	path = sketch-designdoc
 	url = https://github.com/mamuso/sketch-designdoc.git
+[submodule "Sketch-Guides"]
+	path = Sketch-Guides
+	url = https://github.com/luvmex/Sketch-Guides.git
+[submodule "Export-More"]
+	path = Export-More
+	url = https://github.com/nathco/Export-More.git
+[submodule "MagicMirror"]
+	path = MagicMirror
+	url = https://github.com/MagicSketch/MagicMirror.git
+[submodule "Sketch-ArtboardTricks"]
+	path = Sketch-ArtboardTricks
+	url = https://github.com/romannurik/Sketch-ArtboardTricks.git
