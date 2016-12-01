@@ -25,3 +25,6 @@ If you got the hang of this and hate the plugins I use you should be able to cre
 - [Magic Mirror](https://github.com/MagicSketch/MagicMirror) — Quickly mock your design onto a device, what else do I need to say.
 - [Sketch Runner](http://sketchrunner.com/) — I love Alfred App and hate clicking around! Automate & shortcut things people!!!
 - [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc) — I have been plotting a way to make this since Sketch came out! Glad some smart people have made it happen, now I can modify it!!
+
+
+*Warning — I put this together to learn about what I can do with git, I do not know if this practice is 100% the right way, so be careful*
