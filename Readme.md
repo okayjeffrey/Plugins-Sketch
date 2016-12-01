@@ -14,3 +14,14 @@ You will notice all the "Submodule" folders are empty we need to do two things
 # Adding new Plugin Repos to this repo
 If you got the hang of this and hate the plugins I use you should be able to create your own!
 - use ``git submodule add [clone url]`` not clone
+
+---
+
+## Plugins here.
+- [Modulizer](https://github.com/Falkeyn/Modulizer) — Great for creating quick shape margins around your content!
+- [Sketch-ArtboardTricks](https://github.com/romannurik/Sketch-ArtboardTricks) — Who doesn't like things in order and numbered too!
+- [Sketch Guides](https://github.com/luvmex/Sketch-Guides) — It is the old school designer in me but I still like to have manual guides to keep me true!
+- [Export More](https://github.com/nathco/Export-More) — Sometimes you want to use that cool app icon as a desktop icon!
+- [Magic Mirror](https://github.com/MagicSketch/MagicMirror) — Quickly mock your design onto a device, what else do I need to say.
+- [Sketch Runner](http://sketchrunner.com/) — I love Alfred App and hate clicking around! Automate & shortcut things people!!!
+- [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc) — I have been plotting a way to make this since Sketch came out! Glad some smart people have made it happen, now I can modify it!!
