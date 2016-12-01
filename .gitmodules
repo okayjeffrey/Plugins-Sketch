@@ -1,0 +1,6 @@
+[submodule "Modulizer"]
+	path = Modulizer
+	url = https://github.com/Falkeyn/Modulizer.git
+[submodule "sketch-designdoc"]
+	path = sketch-designdoc
+	url = https://github.com/mamuso/sketch-designdoc.git
