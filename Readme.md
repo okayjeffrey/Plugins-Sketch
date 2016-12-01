@@ -27,4 +27,6 @@ If you got the hang of this and hate the plugins I use you should be able to cre
 - [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc) — I have been plotting a way to make this since Sketch came out! Glad some smart people have made it happen, now I can modify it!!
 
 
+*Note: These are not all of the plugins being used. Some like Invision's Craft install & manage themselves so I have included a .gitignore for plugins like that.*
+
 *Warning — I put this together to learn about what I can do with git, I do not know if this practice is 100% the right way, so be careful*
