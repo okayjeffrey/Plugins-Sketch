@@ -15,6 +15,9 @@ You will notice all the "Submodule" folders are empty we need to do two things
 If you got the hang of this and hate the plugins I use you should be able to create your own!
 - use ``git submodule add [clone url]`` not clone
 
+## Removing a Plugin Repo (now Submodule) from your repo
+- its as simple as ``git rm -f [directory name of plugin]`` the -f is to force the removal incase there is anything cached.
+
 ---
 
 ## Plugins here.
