@@ -19,3 +19,6 @@
 [submodule "sort-me-sketch"]
 	path = sort-me-sketch
 	url = https://github.com/romashamin/sort-me-sketch.git
+[submodule "Auto-Layout"]
+	path = Auto-Layout
+	url = https://github.com/AnimaApp/Auto-Layout.git
