@@ -19,3 +19,9 @@
 [submodule "sort-me-sketch"]
 	path = sort-me-sketch
 	url = https://github.com/romashamin/sort-me-sketch.git
+[submodule "UserFlows"]
+	path = UserFlows
+	url = https://github.com/abynim/UserFlows.git
+[submodule "Prism"]
+	path = Prism
+	url = https://github.com/ment-mx/Prism.git
