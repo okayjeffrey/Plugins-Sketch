@@ -30,6 +30,7 @@ If you got the hang of this and hate the plugins I use you should be able to cre
 - [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc) — I have been plotting a way to make this since Sketch came out! Glad some smart people have made it happen, now I can modify it!!
 - [Sort Me](https://github.com/romashamin/sort-me-sketch) — Organize your layers alphabetically because its your job to be organized!
 - [User Flows](https://github.com/abynim/UserFlows/) — I have been doing this manually for a while checking this out to see how it works for building userflows in a Page between artboards!
+- [Auto-Layout](https://github.com/AnimaApp/Auto-Layout) — A nice little tool that will make responsive layouts easier to build!
 
 
 *Note: These are not all of the plugins being used. Some like Invision's Craft install & manage themselves so I have included a .gitignore for plugins like that.*
