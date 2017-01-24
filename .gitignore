@@ -1,4 +1,5 @@
 # Plugins that Manage themselves
 Panels.sketchplugin
 Semaphore Pasteboard.sketchplugin
+Auto-Layout/*
 .DS_Store
