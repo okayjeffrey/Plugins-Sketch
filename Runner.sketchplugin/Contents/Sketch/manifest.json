@@ -57,7 +57,7 @@
     ]
   },
   "identifier" : "com.sketchrunner.Runner",
-  "version" : "0.8",
+  "version" : "0.8.1",
   "description" : "Speed up your Sketch workflow",
   "authorEmail" : "hello@sketchrunner.com",
   "name" : "🏃🏿 Runner",
