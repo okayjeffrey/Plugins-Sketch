@@ -33,7 +33,7 @@ If you got the hang of this and hate the plugins I use you should be able to cre
 
 
 ## Plugins not included (Because they handle their own updating)
-- [Auto-Layout](https://github.com/AnimaApp/Auto-Layout) — A nice little tool that will make responsive layouts easier to build!
+- [Auto-Layout](https://www.animaapp.com/) — A nice little tool that will make responsive layouts easier to build!
 - [Craft](https://www.invisionapp.com/craft)
 
 *Note: These are not all of the plugins being used. Some like Invision's Craft install & manage themselves so I have included a .gitignore for plugins like that.*
