@@ -6,7 +6,7 @@ You will notice all the "Submodule" folders are empty we need to do two things
 - ``git submodule init``
 - ``git submodule update``
 **or**
-- ``git clone --recursive [clone url]`` When cloning it as a shortcut
+- ``git clone --recursive [clone url] [sketch plugins folder path]`` When cloning it as a shortcut — * *Plugins Folder Path for Sketch 3: ~/Library/Application Support/com.bohemiancoding.sketch3/Plugins*
 
 ## Updating Plugin repos to their current version
 - ``git submodule update --remote``
