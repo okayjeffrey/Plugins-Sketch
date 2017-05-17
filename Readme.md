@@ -6,7 +6,7 @@ You will notice all the "Submodule" folders are empty we need to do two things
 - ``git submodule init``
 - ``git submodule update``
 **or**
-- ``git clone --recursive [clone url]`` When cloning it as a shortcut
+- ``git clone --recursive [clone url] [sketch plugins folder path]`` When cloning it as a shortcut — * *Plugins Folder Path for Sketch 3: ~/Library/Application Support/com.bohemiancoding.sketch3/Plugins*
 
 ## Updating Plugin repos to their current version
 - ``git submodule update --remote``
@@ -30,8 +30,11 @@ If you got the hang of this and hate the plugins I use you should be able to cre
 - [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc) — I have been plotting a way to make this since Sketch came out! Glad some smart people have made it happen, now I can modify it!!
 - [Sort Me](https://github.com/romashamin/sort-me-sketch) — Organize your layers alphabetically because its your job to be organized!
 - [User Flows](https://github.com/abynim/UserFlows/) — I have been doing this manually for a while checking this out to see how it works for building userflows in a Page between artboards!
-- [Auto-Layout](https://github.com/AnimaApp/Auto-Layout) — A nice little tool that will make responsive layouts easier to build!
 
+
+## Plugins not included (Because they handle their own updating)
+- [Auto-Layout](https://github.com/AnimaApp/Auto-Layout) — A nice little tool that will make responsive layouts easier to build!
+- [Craft](https://www.invisionapp.com/craft)
 
 *Note: These are not all of the plugins being used. Some like Invision's Craft install & manage themselves so I have included a .gitignore for plugins like that.*
 
