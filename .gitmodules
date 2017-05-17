@@ -25,6 +25,3 @@
 [submodule "Prism"]
 	path = Prism
 	url = https://github.com/ment-mx/Prism.git
-[submodule "Auto-Layout"]
-	path = Auto-Layout
-	url = https://github.com/AnimaApp/Auto-Layout.git
