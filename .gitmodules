@@ -25,3 +25,12 @@
 [submodule "Prism"]
 	path = Prism
 	url = https://github.com/ment-mx/Prism.git
+[submodule "chromatic-sketch"]
+	path = chromatic-sketch
+	url = https://github.com/petterheterjag/chromatic-sketch.git
+[submodule "sketch-remove-all-disabled-styles"]
+	path = sketch-remove-all-disabled-styles
+	url = https://github.com/ErikFontanel/sketch-remove-all-disabled-styles.git
+[submodule "RemoveAllGuides"]
+	path = RemoveAllGuides
+	url = https://github.com/ichik/RemoveAllGuides.git

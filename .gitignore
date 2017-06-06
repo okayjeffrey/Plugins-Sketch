@@ -1,5 +1,7 @@
 # Plugins that Manage themselves
 Panels.sketchplugin
+Runner.sketchplugin
+NudgePushShove.sketchplugin
 Semaphore Pasteboard.sketchplugin
 Auto-Layout/*
 LaunchpadPlugin.sketchplugin

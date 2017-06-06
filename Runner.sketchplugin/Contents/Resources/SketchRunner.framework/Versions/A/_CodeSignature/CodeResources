@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		20RGqUWk/omVxvET/IIU5+VHrfU=
+		qaT/ce1wr4Fp9e1vKOGVtl2kClc=
 		</data>
 		<key>Resources/SIInstabarInput.nib</key>
 		<data>
-		u2WGke0/LwyRGDV3kSc1HpFCNOg=
+		CUPeCJ4ZuB9hkNQmiw+i1rR3vKk=
 		</data>
 		<key>Resources/SIIntroHintView.nib</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/SISettingsView.nib</key>
 		<data>
-		3C6sntGKbOnh5H9SgDF9eW/8lFc=
+		mvV1Y9baqp8tWZ0Wq/dW97g/HLM=
 		</data>
 		<key>Resources/SIUpdateDetails.nib</key>
 		<data>
@@ -122,22 +122,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			20RGqUWk/omVxvET/IIU5+VHrfU=
+			qaT/ce1wr4Fp9e1vKOGVtl2kClc=
 			</data>
 			<key>hash2</key>
 			<data>
-			X6u3GADvLyTinkzl/xAG9zEmAm5VVyXvoH9sZ1XF/zU=
+			tV+Jlm3dFliTJVciRmDtnSU4UjOhlTTJUgaL0MRqUlM=
 			</data>
 		</dict>
 		<key>Resources/SIInstabarInput.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u2WGke0/LwyRGDV3kSc1HpFCNOg=
+			CUPeCJ4ZuB9hkNQmiw+i1rR3vKk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/Y799kex5qQjDugbgtk7jDNIGzjigtO2Lq/VYGLkcx0=
+			SVmtf1Aa6boyslCfdd+EfdmqB8Qjpc8UrLL5rl0pOdo=
 			</data>
 		</dict>
 		<key>Resources/SIIntroHintView.nib</key>
@@ -155,11 +155,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3C6sntGKbOnh5H9SgDF9eW/8lFc=
+			mvV1Y9baqp8tWZ0Wq/dW97g/HLM=
 			</data>
 			<key>hash2</key>
 			<data>
-			JNuFfjAEaE3l4bnK9NJ6vgPjOT8BuzvlHP+sySgfsAw=
+			7ZKRwUyuwBGZww9BBoHWVUNgH/sCervHNC8Kr9bsZmI=
 			</data>
 		</dict>
 		<key>Resources/SIUpdateDetails.nib</key>
